@@ -42,3 +42,5 @@
 - **Project Management**
   - Applied project management skills to define project requirements, create a structured plan, and deliver a functional application.
 
+### Links to Video Walkthrough
+https://drive.google.com/file/d/15GlBCqqElnHJP9RTbNe9GyvGwucgE3xp/view?usp=sharing
